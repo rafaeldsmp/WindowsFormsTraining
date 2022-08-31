@@ -1,0 +1,16 @@
+C:\Curso\CursoWinform\CursoWinform\bin\Debug\CursoWinform.exe.config
+C:\Curso\CursoWinform\CursoWinform\bin\Debug\CursoWinform.exe
+C:\Curso\CursoWinform\CursoWinform\bin\Debug\CursoWinform.pdb
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.csproj.AssemblyReference.cache
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Properties.Resources.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.csproj.GenerateResource.cache
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.csproj.CoreCompileInputs.cache
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.exe
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.pdb
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_DemonstracaoKey.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.frm_HelloWorld.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_Mascara.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_Principal.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_ValidaCPF.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_ValidaCPF2.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_ValidaSenha.resources
