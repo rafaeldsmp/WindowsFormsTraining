@@ -8,6 +8,7 @@ namespace CursoWinform
 {
     internal static class Program
     {
+        // UC = USER CONTROL, é o formulario  
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
@@ -16,7 +17,7 @@ namespace CursoWinform
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_Principal());
+            Application.Run(new Frm_Principal_Menu_UC());
         }
     }
 }
