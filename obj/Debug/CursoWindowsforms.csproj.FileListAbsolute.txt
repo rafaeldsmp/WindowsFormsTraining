@@ -29,3 +29,8 @@ C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_Senha_UC.resources
 C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_Questao.resources
 C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_ArquivoImagem_UC.resources
 C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_Login.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_MouseEventos.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_MouseCaptura.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_MouseCursor.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_MenuFlutuante.resources
+C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_CadastroCliente_UC.resources

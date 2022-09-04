@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace CursoWinform
 {
-    internal static class Program
+    public static class Program
     {
         // UC = USER CONTROL, é o formulario  
         /// <summary>

@@ -70,35 +70,65 @@
     <Compile Include="FormuláriosCurso1\Frm_Mascara.Designer.cs">
       <DependentUpon>Frm_Mascara.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_ArquivoImagem_UC.cs">
+    <Compile Include="FormuláriosCurso2\Frm_ArquivoImagem_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Frm_ArquivoImagem_UC.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_ArquivoImagem_UC.Designer.cs">
       <DependentUpon>Frm_ArquivoImagem_UC.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_DemonstracaoKey_UC.cs">
+    <Compile Include="FormuláriosCurso2\Frm_DemonstracaoKey_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Frm_DemonstracaoKey_UC.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_DemonstracaoKey_UC.Designer.cs">
       <DependentUpon>Frm_DemonstracaoKey_UC.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_HelloWorld_UC.cs">
+    <Compile Include="FormuláriosCurso2\Frm_HelloWorld_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Frm_HelloWorld_UC.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_HelloWorld_UC.Designer.cs">
       <DependentUpon>Frm_HelloWorld_UC.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_Login.cs">
+    <Compile Include="FormuláriosCurso2\Frm_Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Frm_Login.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_Login.Designer.cs">
       <DependentUpon>Frm_Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_Mascara_UC.cs">
+    <Compile Include="FormuláriosCurso2\Frm_Mascara_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Frm_Mascara_UC.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_Mascara_UC.Designer.cs">
       <DependentUpon>Frm_Mascara_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_CadastroCliente_UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Frm_CadastroCliente_UC.Designer.cs">
+      <DependentUpon>Frm_CadastroCliente_UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_MenuFlutuante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_MenuFlutuante.Designer.cs">
+      <DependentUpon>Frm_MenuFlutuante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_MouseCaptura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_MouseCaptura.Designer.cs">
+      <DependentUpon>Frm_MouseCaptura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_MouseCursor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_MouseCursor.Designer.cs">
+      <DependentUpon>Frm_MouseCursor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_MouseEventos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_MouseEventos.Designer.cs">
+      <DependentUpon>Frm_MouseEventos.cs</DependentUpon>
     </Compile>
     <Compile Include="Frm_Principal.cs">
       <SubType>Form</SubType>
@@ -142,30 +172,30 @@
     <Compile Include="Frm_Principal_Menu_UC.Designer.cs">
       <DependentUpon>Frm_Principal_Menu_UC.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_Questao.cs">
+    <Compile Include="FormuláriosCurso2\Frm_Questao.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Frm_Questao.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_Questao.Designer.cs">
       <DependentUpon>Frm_Questao.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_Senha_UC.cs">
+    <Compile Include="FormuláriosCurso2\Frm_Senha_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Frm_Senha_UC.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_Senha_UC.Designer.cs">
       <DependentUpon>Frm_Senha_UC.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_ValidaCPF_UC.cs">
+    <Compile Include="FormuláriosCurso2\Frm_ValidaCPF_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Frm_ValidaCPF_UC.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_ValidaCPF_UC.Designer.cs">
       <DependentUpon>Frm_ValidaCPF_UC.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Frm_CPF2_UC.cs">
+    <Compile Include="FormuláriosCurso2\Frm_CPF2_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Frm_CPF2_UC.Designer.cs">
+    <Compile Include="FormuláriosCurso2\Frm_CPF2_UC.Designer.cs">
       <DependentUpon>Frm_CPF2_UC.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="FormuláriosCurso1\Frm_DemonstracaoKey.resx">
@@ -177,20 +207,35 @@
     <EmbeddedResource Include="FormuláriosCurso1\Frm_Mascara.resx">
       <DependentUpon>Frm_Mascara.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_ArquivoImagem_UC.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_ArquivoImagem_UC.resx">
       <DependentUpon>Frm_ArquivoImagem_UC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_DemonstracaoKey_UC.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_DemonstracaoKey_UC.resx">
       <DependentUpon>Frm_DemonstracaoKey_UC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_HelloWorld_UC.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_HelloWorld_UC.resx">
       <DependentUpon>Frm_HelloWorld_UC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_Login.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_Login.resx">
       <DependentUpon>Frm_Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_Mascara_UC.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_Mascara_UC.resx">
       <DependentUpon>Frm_Mascara_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_CadastroCliente_UC.resx">
+      <DependentUpon>Frm_CadastroCliente_UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_MenuFlutuante.resx">
+      <DependentUpon>Frm_MenuFlutuante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_MouseCaptura.resx">
+      <DependentUpon>Frm_MouseCaptura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_MouseCursor.resx">
+      <DependentUpon>Frm_MouseCursor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_MouseEventos.resx">
+      <DependentUpon>Frm_MouseEventos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_Principal.resx">
       <DependentUpon>Frm_Principal.cs</DependentUpon>
@@ -213,13 +258,13 @@
     <EmbeddedResource Include="Frm_Principal_Menu_UC.resx">
       <DependentUpon>Frm_Principal_Menu_UC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_Questao.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_Questao.resx">
       <DependentUpon>Frm_Questao.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_Senha_UC.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_Senha_UC.resx">
       <DependentUpon>Frm_Senha_UC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_ValidaCPF_UC.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_ValidaCPF_UC.resx">
       <DependentUpon>Frm_ValidaCPF_UC.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -232,7 +277,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Frm_CPF2_UC.resx">
+    <EmbeddedResource Include="FormuláriosCurso2\Frm_CPF2_UC.resx">
       <DependentUpon>Frm_CPF2_UC.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -249,6 +294,11 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Imagens\Cadastros.png" />
+    <Content Include="Imagens\DeleteAll.png" />
+    <Content Include="Imagens\DeleteLeft.png" />
+    <Content Include="Imagens\DeleteRight.png" />
+    <Content Include="Imagens\DeleteTab.png" />
     <Content Include="Imagens\Frm_DemonstracaoKey.ico" />
     <Content Include="Imagens\Frm_DemonstracaoKey.png" />
     <Content Include="Imagens\Frm_HelloWorld.ico" />
@@ -265,6 +315,8 @@
     <Content Include="Imagens\icons8-question-mark-100.ico" />
     <Content Include="Imagens\icons8-question-mark-100.png" />
     <Content Include="Imagens\key.png" />
+    <Content Include="Imagens\money.png" />
+    <Content Include="Imagens\user.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CursoWindowsFormsBiblioteca\CursoWindowsFormsBiblioteca.csproj">
