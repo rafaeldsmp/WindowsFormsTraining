@@ -34,3 +34,5 @@ C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_MouseCaptura.resou
 C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_MouseCursor.resources
 C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_MenuFlutuante.resources
 C:\Curso\CursoWinform\CursoWinform\obj\Debug\CursoWinform.Frm_CadastroCliente_UC.resources
+C:\Curso\CursoWinform\CursoWinform\bin\Debug\Newtonsoft.Json.dll
+C:\Curso\CursoWinform\CursoWinform\bin\Debug\Newtonsoft.Json.xml

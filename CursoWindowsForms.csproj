@@ -39,7 +39,9 @@
     <ApplicationIcon>Imagens\Frm_Principal.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -100,34 +102,34 @@
     <Compile Include="FormuláriosCurso2\Frm_Mascara_UC.Designer.cs">
       <DependentUpon>Frm_Mascara_UC.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_CadastroCliente_UC.cs">
+    <Compile Include="FormuláriosCurso3\Frm_CadastroCliente_UC.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Frm_CadastroCliente_UC.Designer.cs">
+    <Compile Include="FormuláriosCurso3\Frm_CadastroCliente_UC.Designer.cs">
       <DependentUpon>Frm_CadastroCliente_UC.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_MenuFlutuante.cs">
+    <Compile Include="FormuláriosCurso3\Frm_MenuFlutuante.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Frm_MenuFlutuante.Designer.cs">
+    <Compile Include="FormuláriosCurso3\Frm_MenuFlutuante.Designer.cs">
       <DependentUpon>Frm_MenuFlutuante.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_MouseCaptura.cs">
+    <Compile Include="FormuláriosCurso3\Frm_MouseCaptura.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Frm_MouseCaptura.Designer.cs">
+    <Compile Include="FormuláriosCurso3\Frm_MouseCaptura.Designer.cs">
       <DependentUpon>Frm_MouseCaptura.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_MouseCursor.cs">
+    <Compile Include="FormuláriosCurso3\Frm_MouseCursor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Frm_MouseCursor.Designer.cs">
+    <Compile Include="FormuláriosCurso3\Frm_MouseCursor.Designer.cs">
       <DependentUpon>Frm_MouseCursor.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_MouseEventos.cs">
+    <Compile Include="FormuláriosCurso3\Frm_MouseEventos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Frm_MouseEventos.Designer.cs">
+    <Compile Include="FormuláriosCurso3\Frm_MouseEventos.Designer.cs">
       <DependentUpon>Frm_MouseEventos.cs</DependentUpon>
     </Compile>
     <Compile Include="Frm_Principal.cs">
@@ -222,19 +224,19 @@
     <EmbeddedResource Include="FormuláriosCurso2\Frm_Mascara_UC.resx">
       <DependentUpon>Frm_Mascara_UC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_CadastroCliente_UC.resx">
+    <EmbeddedResource Include="FormuláriosCurso3\Frm_CadastroCliente_UC.resx">
       <DependentUpon>Frm_CadastroCliente_UC.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_MenuFlutuante.resx">
+    <EmbeddedResource Include="FormuláriosCurso3\Frm_MenuFlutuante.resx">
       <DependentUpon>Frm_MenuFlutuante.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_MouseCaptura.resx">
+    <EmbeddedResource Include="FormuláriosCurso3\Frm_MouseCaptura.resx">
       <DependentUpon>Frm_MouseCaptura.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_MouseCursor.resx">
+    <EmbeddedResource Include="FormuláriosCurso3\Frm_MouseCursor.resx">
       <DependentUpon>Frm_MouseCursor.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Frm_MouseEventos.resx">
+    <EmbeddedResource Include="FormuláriosCurso3\Frm_MouseEventos.resx">
       <DependentUpon>Frm_MouseEventos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_Principal.resx">
@@ -299,6 +301,7 @@
     <Content Include="Imagens\DeleteLeft.png" />
     <Content Include="Imagens\DeleteRight.png" />
     <Content Include="Imagens\DeleteTab.png" />
+    <Content Include="Imagens\ExcluirBarra.png" />
     <Content Include="Imagens\Frm_DemonstracaoKey.ico" />
     <Content Include="Imagens\Frm_DemonstracaoKey.png" />
     <Content Include="Imagens\Frm_HelloWorld.ico" />
@@ -315,6 +318,7 @@
     <Content Include="Imagens\icons8-question-mark-100.ico" />
     <Content Include="Imagens\icons8-question-mark-100.png" />
     <Content Include="Imagens\key.png" />
+    <Content Include="Imagens\LimparBarra.png" />
     <Content Include="Imagens\money.png" />
     <Content Include="Imagens\user.png" />
   </ItemGroup>
